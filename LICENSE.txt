@@ -1,0 +1,47 @@
+Leaf it Alone Co-op mod
+Copyright (c) 2026 grosso1337. All rights reserved.
+
+You may:
+  - download the mod from this repository or from a page where the author published it;
+  - install it on your own copy of Leaf it Alone and use it to play.
+
+You may not, without written permission from the author:
+  - modify the mod, or create derivative works based on it;
+  - decompile, disassemble or otherwise reverse engineer the mod;
+  - re-upload, mirror, sell or otherwise distribute the mod, in whole or in part;
+  - remove or change this notice or the author credit shown in the game.
+
+No license is granted other than the rights listed above.
+
+The mod is provided "as is", without warranty of any kind. Back up your saves before using it.
+The author is not liable for any damage or data loss resulting from its use.
+
+Leaf it Alone is a trademark of its respective owners. This mod is not affiliated with or
+endorsed by them. You need your own copy of the game.
+
+Third-party content included in the mod:
+  - KayKit Adventurers by Kay Lousberg, CC0 1.0
+  - Kenney Starter Kit 3D Platformer, CC0 1.0
+
+----------------------------------------------------------------------------------------------
+
+Mod de co-op para Leaf it Alone
+Copyright (c) 2026 grosso1337. Todos los derechos reservados.
+
+Podés:
+  - descargar el mod desde este repositorio o desde una página donde lo haya publicado el autor;
+  - instalarlo en tu propia copia de Leaf it Alone y usarlo para jugar.
+
+No podés, sin permiso escrito del autor:
+  - modificar el mod ni crear obras basadas en él;
+  - descompilarlo, desensamblarlo ni desarmarlo de ninguna otra forma;
+  - volver a subirlo, copiarlo a otros sitios, venderlo ni distribuirlo, entero o en partes;
+  - quitar o cambiar este aviso o el crédito al autor que se ve en el juego.
+
+No se concede ningún otro permiso aparte de los indicados arriba.
+
+El mod se entrega "tal cual", sin garantía de ningún tipo. Hacé una copia de seguridad de tus
+partidas antes de usarlo. El autor no se hace responsable de daños o pérdidas de datos.
+
+Leaf it Alone es una marca de sus respectivos dueños. Este mod no está afiliado ni respaldado por
+ellos. Necesitás tu propia copia del juego.

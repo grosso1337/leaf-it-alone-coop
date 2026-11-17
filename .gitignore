@@ -1,0 +1,2 @@
+# built zips are uploaded as GitHub Release files, not committed
+dist/
