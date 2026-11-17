@@ -1,92 +1,91 @@
-🇪🇸 **Español** | 🇬🇧 [English](README.en.md)
+🇬🇧 **English** | 🇪🇸 [Español](README.es.md)
 
-# 🍂 Leaf it Alone — Co-op online
+# 🍂 Leaf it Alone — Online co-op
 
-> Un mod que convierte **Leaf it Alone** (juego de un jugador) en un **cooperativo online para 2 jugadores**:
-> limpien el mismo mapa juntos, compartan la plata, las mejoras y las herramientas, y vean al otro jugador moverse
-> por el mundo. 🧹🌳
+> A mod that turns **Leaf it Alone** (a single-player game) into a **2-player online co-op**: clean the same map
+> together, share money, upgrades and tools, and see the other player move around the world. 🧹🌳
 
-![Estado](https://img.shields.io/badge/estado-en%20desarrollo-orange)
-![Jugadores](https://img.shields.io/badge/jugadores-2-blue)
-![Plataforma](https://img.shields.io/badge/plataforma-Windows-lightgrey)
+![Status](https://img.shields.io/badge/status-in%20development-orange)
+![Players](https://img.shields.io/badge/players-2-blue)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 
-> 🔒 **Esta es la página del proyecto y, más adelante, de descarga.** No contiene el código fuente y no acepta
-> contribuciones (cambios, propuestas ni reportes). El mod se distribuirá ya armado en la sección
-> **[Releases](../../releases)**. Ver [Licencia](#-licencia).
+> 🔒 **This is the project page and, later, the download page.** It does not contain the source code and does not
+> accept contributions (changes, proposals or reports). The mod will be distributed ready to use under
+> **[Releases](../../releases)**. See [License](#-license).
 
 ---
 
-## 📥 Descargar
+## 📥 Download
 
-🚧 **Todavía no hay descarga.** El mod está en desarrollo y se publicará en **[Releases](../../releases)** cuando
-esté probado entre dos cuentas de Steam. Vendrá como un `.zip` con el mod y las instrucciones de instalación.
+🚧 **No download yet.** The mod is in development and will be published under **[Releases](../../releases)** once
+it has been tested between two Steam accounts. It will come as a `.zip` with the mod and install instructions.
 
 | | |
 |---|---|
-| 🏷️ **Versión del mod** | v0.1.0 (se ve abajo a la izquierda del menú principal) |
-| 🎮 **Versión del juego** | Steam, build 26611978 (noviembre 2026). También funciona con la anterior, 26351512 (`v1.1.3`). |
-| 💻 **Sistema** | Windows |
+| 🏷️ **Mod version** | v0.1.0 (shown at the bottom left of the main menu) |
+| 🎮 **Game version** | Steam, build 26611978 (November 2026). Also works with the previous one, 26351512 (`v1.1.3`). |
+| 💻 **System** | Windows |
 
-> ⚠️ **Proyecto en desarrollo.** Hacé una copia de seguridad de tus partidas antes de usarlo.
+> ⚠️ **Work in progress.** Back up your saves before using it.
 
 ---
 
-## ✨ Qué se comparte entre los dos jugadores
+## ✨ What the two players share
 
-| | Función | Estado |
+| | Feature | Status |
 |---|---|:-:|
-| 💰 | **Billetera compartida**: lo que gana o gasta uno lo ven los dos al instante | ✅ |
-| ⬆️ | **Mejoras** de la tienda | ✅ |
-| 🧰 | **Herramientas compradas**: las compra uno y las tienen los dos | ✅ |
-| 🍃 | **Hojas**: lo que sopla, rastrilla, aspira o junta uno se ve en el mundo del otro | ✅ |
-| 👣 | **Hojas pisadas al caminar** por el otro jugador | 🧪 |
-| 🗺️ | **Progreso de zonas** y sus recompensas | ✅ |
-| 🚪 | **Puertas** y funciones desbloqueadas por progreso | ✅ |
-| 🛍️ | **Bolsas, pelotas y objetos** que se agarran, se lanzan o se venden | ✅ |
-| 🏮 | **Faroles** y 🌀 **ventilaciones** | ✅ |
-| 💾 | **Guardado compartido**: si uno guarda, guarda también el otro | ✅ |
-| 📸 | **Coleccionables** y 📋 **objetivos descubiertos** | ❌ |
+| 💰 | **Shared wallet**: what one player earns or spends, both see at once | ✅ |
+| ⬆️ | Shop **upgrades** | ✅ |
+| 🧰 | **Bought tools**: one player buys, both have it | ✅ |
+| 🍃 | **Leaves**: what one player blows, rakes, sucks up or gathers shows in the other's world | ✅ |
+| 👣 | **Leaves pushed by the other player's footsteps** | 🧪 |
+| 🗺️ | **Zone progress** and zone rewards | ✅ |
+| 🚪 | **Doors** and features unlocked by progress | ✅ |
+| 🛍️ | **Bags, balls and objects** that can be picked up, thrown or sold | ✅ |
+| 🏮 | **Lanterns** and 🌀 **vents** | ✅ |
+| 💾 | **Shared saving**: when one player saves, the other saves too | ✅ |
+| 📸 | **Collectibles** and 📋 **discovered objectives** | ❌ |
 
-✅ funciona · 🧪 en prueba · ❌ todavía no se comparte
+✅ works · 🧪 being tested · ❌ not shared yet
 
-## 🧑‍🤝‍🧑 Ver al otro jugador
+## 🧑‍🤝‍🧑 Seeing the other player
 
-- 🚶 El otro jugador es un personaje que camina, corre y se queda quieto.
-- 🎨 El anfitrión lleva túnica **verde** y el invitado túnica **roja**.
-- 🔧 Lleva en la mano la herramienta que está usando, y su soplahojas suena desde donde está.
+- 🚶 The other player is a character that walks, runs and stands still.
+- 🎨 The host wears a **green** robe and the guest a **red** one.
+- 🔧 They hold the tool they are using, and their leaf blower is heard from where they are.
 
-## 🔗 Cómo se juega
+## 🔗 How to play
 
-1. 🏠 **Anfitrión**: pausa → **"Invitar jugador"** → elige al amigo en la ventana de Steam.
-2. 📨 **Invitado**: acepta la invitación. El juego se abre solo y se conecta.
-3. 🎉 En unos 30 segundos el invitado entra al mundo del anfitrión. ¡A limpiar juntos!
+1. 🏠 **Host**: pause → **"Invite player"** → pick the friend in the Steam window.
+2. 📨 **Guest**: accept the invite. The game opens by itself and connects.
+3. 🎉 In about 30 seconds the guest joins the host's world. Start cleaning!
 
-> 🛈 El anfitrión manda: el mundo, las hojas y el progreso que valen son los suyos.
+> 🛈 The host's world counts: their leaves, money and progress are the ones that matter.
 
-## 🛡️ Juego limpio
+## 🛡️ Fair play
 
-Mientras el mod está cargado se **bloquean las estadísticas, las tablas de clasificación y los logros de Steam**.
-El mod no afecta la competencia online.
+While the mod is loaded, **Steam stats, leaderboards and achievements are blocked**. The mod does not affect
+online competition.
 
-## 🐞 Problemas conocidos
+## 🐞 Known issues
 
-- 🍃 Las hojas pueden verse levemente distintas en cada pantalla; lo que importa (zonas, plata, progreso) coincide.
-- 📸 Los coleccionables y los objetivos descubiertos todavía no se comparten.
-- ⚫ Abrir la superposición de Steam (Shift+Tab) durante una pantalla de carga puede dejar la pantalla negra.
-- 🔄 Una actualización del juego puede romper partes del mod.
-- 💾 Si alguien cierra el juego sin guardar, pierde lo que no guardó (igual que jugando solo).
+- 🍃 Leaves can look slightly different on each screen; what matters (zones, money, progress) matches.
+- 📸 Collectibles and discovered objectives are not shared yet.
+- ⚫ Opening the Steam overlay (Shift+Tab) during a loading screen can leave the screen black.
+- 🔄 A game update can break parts of the mod.
+- 💾 Closing the game without saving loses what was not saved (same as playing alone).
 
 ---
 
-## 📜 Licencia
+## 📜 License
 
-**© 2026 grosso1337. Todos los derechos reservados.** Podés descargar el mod y usarlo para jugar. **No está
-permitido** modificarlo, desarmarlo, volver a subirlo ni distribuirlo en otro lugar sin permiso del autor.
-Texto completo en [LICENSE.txt](LICENSE.txt).
+**© 2026 grosso1337. All rights reserved.** You may download the mod and use it to play. You **may not** modify
+it, reverse engineer it, re-upload it or distribute it elsewhere without the author's permission. Full text in
+[LICENSE.txt](LICENSE.txt).
 
-## 🙏 Créditos
+## 🙏 Credits
 
-- 🎮 *Leaf it Alone* es de **Eternity**. Este mod no está afiliado ni respaldado por sus autores. Para jugar
-  necesitás tu propia copia del juego.
-- 🧍 Personaje humano: **KayKit — Adventurers** de Kay Lousberg ([CC0](https://creativecommons.org/publicdomain/zero/1.0/)).
-- 🤖 Personaje robot: **Kenney — Starter Kit 3D Platformer** ([CC0](https://creativecommons.org/publicdomain/zero/1.0/)).
+- 🎮 *Leaf it Alone* belongs to **Eternity**. This mod is not affiliated with or endorsed by its authors. You need
+  your own copy of the game to play.
+- 🧍 Human character: **KayKit — Adventurers** by Kay Lousberg ([CC0](https://creativecommons.org/publicdomain/zero/1.0/)).
+- 🤖 Robot character: **Kenney — Starter Kit 3D Platformer** ([CC0](https://creativecommons.org/publicdomain/zero/1.0/)).
