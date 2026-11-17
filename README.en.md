@@ -9,15 +9,16 @@
 ![Players](https://img.shields.io/badge/players-2-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 
-> 🔒 **This repository is for downloading the mod only.** It does not contain the source code. The mod is
-> distributed ready to use under **[Releases](../../releases)**. See [License](#-license).
+> 🔒 **This is the project page and, later, the download page.** It does not contain the source code and does not
+> accept contributions (changes, proposals or reports). The mod will be distributed ready to use under
+> **[Releases](../../releases)**. See [License](#-license).
 
 ---
 
 ## 📥 Download
 
-Go to **[Releases](../../releases)** and download the `.zip` of the latest version. It contains the mod and the
-install instructions.
+🚧 **No download yet.** The mod is in development and will be published under **[Releases](../../releases)** once
+it has been tested between two Steam accounts. It will come as a `.zip` with the mod and install instructions.
 
 | | |
 |---|---|

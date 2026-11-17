@@ -10,15 +10,16 @@
 ![Jugadores](https://img.shields.io/badge/jugadores-2-blue)
 ![Plataforma](https://img.shields.io/badge/plataforma-Windows-lightgrey)
 
-> 🔒 **Este repositorio es solo para descargar el mod.** No contiene el código fuente. El mod se distribuye ya
-> armado en la sección **[Releases](../../releases)**. Ver [Licencia](#-licencia).
+> 🔒 **Esta es la página del proyecto y, más adelante, de descarga.** No contiene el código fuente y no acepta
+> contribuciones (cambios, propuestas ni reportes). El mod se distribuirá ya armado en la sección
+> **[Releases](../../releases)**. Ver [Licencia](#-licencia).
 
 ---
 
 ## 📥 Descargar
 
-Entrá a **[Releases](../../releases)** y bajá el `.zip` de la última versión. Adentro están el mod y las
-instrucciones de instalación.
+🚧 **Todavía no hay descarga.** El mod está en desarrollo y se publicará en **[Releases](../../releases)** cuando
+esté probado entre dos cuentas de Steam. Vendrá como un `.zip` con el mod y las instrucciones de instalación.
 
 | | |
 |---|---|
