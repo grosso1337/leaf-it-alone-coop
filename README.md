@@ -3,7 +3,7 @@
 # 🍂 Leaf it Alone — Online co-op
 
 > A mod that turns **Leaf it Alone** (a single-player game) into a **2-player online co-op**: clean the same map
-> together, share money, upgrades and tools, and see the other player move around the world. 🧹🌳
+> together, share money, upgrades, tools and bags, and see the other player move around the world. 🧹🌳
 
 ![Status](https://img.shields.io/badge/status-in%20development-orange)
 ![Players](https://img.shields.io/badge/players-2-blue)
@@ -22,7 +22,7 @@ it has been tested between two Steam accounts. It will come as a `.zip` with the
 
 | | |
 |---|---|
-| 🏷️ **Mod version** | v0.1.0 (shown at the bottom left of the main menu) |
+| 🏷️ **Mod version** | v0.2.5 in development (shown at the bottom left of the main menu) |
 | 🎮 **Game version** | Steam, build 26611978 (November 2026). Also works with the previous one, 26351512 (`v1.1.3`). |
 | 💻 **System** | Windows |
 
@@ -37,8 +37,9 @@ it has been tested between two Steam accounts. It will come as a `.zip` with the
 | 💰 | **Shared wallet**: what one player earns or spends, both see at once | ✅ |
 | ⬆️ | Shop **upgrades** | ✅ |
 | 🧰 | **Bought tools**: one player buys, both have it | ✅ |
-| 🍃 | **Leaves**: what one player blows, rakes, sucks up or gathers shows in the other's world | ✅ |
-| 👣 | **Leaves pushed by the other player's footsteps** | 🧪 |
+| 👜 | **Bigger bags**: when one player buys a bigger bag, the other gets it too (never a smaller one) | 🧪 |
+| 🍃 | **Leaves**: what one player blows, rakes, sucks up or gathers shows in the other's world, in the same place on both screens | ✅ |
+| 👣 | **Leaves pushed by the other player's footsteps and jump landings** | ✅ |
 | 🗺️ | **Zone progress** and zone rewards | ✅ |
 | 🚪 | **Doors** and features unlocked by progress | ✅ |
 | 🛍️ | **Bags, balls and objects** that can be picked up, thrown or sold | ✅ |
@@ -69,7 +70,8 @@ online competition.
 
 ## 🐞 Known issues
 
-- 🍃 Leaves can look slightly different on each screen; what matters (zones, money, progress) matches.
+- 🍃 On the guest's screen, a few leaves blown by the host can jump back mid-flight. Being fixed.
+- 🍃 A few leaves can rest a few centimetres apart on each screen; the mod corrects them gently over time.
 - 📸 Collectibles and discovered objectives are not shared yet.
 - ⚫ Opening the Steam overlay (Shift+Tab) during a loading screen can leave the screen black.
 - 🔄 A game update can break parts of the mod.
